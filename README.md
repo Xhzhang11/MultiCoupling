@@ -14,7 +14,7 @@ in recurrent neural circuits**.
 - numba
 
 
-## Repository Structure22
+## Repository Structure
 
 
 ├── benchmark/                    # Fig. 1: fast learning via multiplicative gating
