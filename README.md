@@ -44,11 +44,11 @@ in recurrent neural circuits**.
 You can produce the main figures of the paper by running the files in different folders.
 
 Reproducing Figure1
-python benchmark/figure1_gym.py
-python benchmark/figure1_MachineLearning_task.py
-python benchmark/figure1_RL.py
-python benchmark/figure1_STDP.py
-python benchmark/figure1_SupervisedLearning.py
+python benchmark/figure1_gym.py  
+python benchmark/figure1_MachineLearning_task.py  
+python benchmark/figure1_RL.py  
+python benchmark/figure1_STDP.py  
+python benchmark/figure1_SupervisedLearning.py  
 
 Reproducing Figure2
 python sequence_limit_cycle/figure2_histogram_diffMDsize.py
