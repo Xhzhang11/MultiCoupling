@@ -21,15 +21,9 @@ in recurrent neural circuits**.
 - numba
 
 
-├── benchmark/               # Fig. 1: fast learning via multiplicative gating
-├── sequence_limit_cycle/    # Fig. 2: robust/persistent dynamics
-├── switching_PFC_MD/        # Fig. 3: cognitive flexibility in PFC–MD models
-├── cortico_pulvinar_cortico/# Fig. 4: WM & attention in cortico–thalamic–cortical loops
-├── motor_plan/              # Fig. 5: cerebellar–thalamic–cortical motor switching
-└── grid_cell/               # Fig. 6: entorhinal–hippocampal visuospatial navigation
+
 
 ## Repository Structure
-
 
 ├── benchmark/                    # Fig. 1: fast learning via multiplicative gating
 │
