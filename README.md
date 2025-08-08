@@ -14,8 +14,9 @@ in recurrent neural circuits**.
 - numba
 
 
-## Repository Structure
-.
+## Repository Structure22
+
+
 ├── benchmark/                    # Fig. 1: fast learning via multiplicative gating
 │
 ├── sequence_limit_cycle/         # Fig. 2: robust/persistent dynamics
