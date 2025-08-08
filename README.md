@@ -4,7 +4,14 @@
 ## Overview
 This repository contains code and data for our study on **Multiplicative feedback gating enables rapid learning and flexible computation
 in recurrent neural circuits**.  
+- **Accelerate learning** on working memory and decision benchmarks (Fig. 1).
+- **Stabilize and persist dynamics** such as sequences and limit cycles (Fig. 2).
+- **Enable cognitive flexibility** in biologically constrained thalamocortical models (Fig. 3).
+- **Support attention and working memory** in cortico–thalamic–cortical circuits (Fig. 4).
+- **Mediate motor task switching** via cerebellar–thalamic–cortical loops (Fig. 5).
+- **Produce grid-like codes** in visuospatial navigation (Fig. 6).
 
+---
 
 
 ## Dependencies
@@ -13,6 +20,13 @@ in recurrent neural circuits**.
 - scikit-learn
 - numba
 
+
+├── benchmark/               # Fig. 1: fast learning via multiplicative gating
+├── sequence_limit_cycle/    # Fig. 2: robust/persistent dynamics
+├── switching_PFC_MD/        # Fig. 3: cognitive flexibility in PFC–MD models
+├── cortico_pulvinar_cortico/# Fig. 4: WM & attention in cortico–thalamic–cortical loops
+├── motor_plan/              # Fig. 5: cerebellar–thalamic–cortical motor switching
+└── grid_cell/               # Fig. 6: entorhinal–hippocampal visuospatial navigation
 
 ## Repository Structure
 
