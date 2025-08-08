@@ -25,17 +25,17 @@ in recurrent neural circuits**.
 
 ## Repository Structure
 
-├── benchmark/                    # Fig. 1: fast learning via multiplicative gating  
+├── benchmark/                    # Figure1: fast learning via multiplicative gating  
 │
-├── sequence_limit_cycle/         # Fig. 2: robust/persistent dynamics  
+├── sequence_limit_cycle/         # Figure2: robust/persistent dynamics  
 │
-├── switching_PFC_MD/             # Fig. 3: cognitive flexibility in PFC–MD models  
+├── switching_PFC_MD/             # Figure3: cognitive flexibility in PFC–MD models  
 │
-├── cortico_pulvinar_cortico/     # Fig. 4: WM & attention in cortico–thalamic–cortical loops  
+├── cortico_pulvinar_cortico/     # Figure4: WM & attention in cortico–thalamic–cortical loops  
 │
-├── motor_plan/                   # Fig. 5: cerebellar–thalamic–cortical motor switching  
+├── motor_plan/                   # Figure5: cerebellar–thalamic–cortical motor switching  
 │
-└── grid_cell/                    # Fig. 6: entorhinal–hippocampal visuospatial navigation  
+└── grid_cell/                    # Figure6: entorhinal–hippocampal visuospatial navigation  
 
 
 
