@@ -40,41 +40,40 @@ in recurrent neural circuits**.
 
 
 
-### Reproducing the results of the paper
+## Reproducing the results of the paper
 You can produce the main figures of the paper by running the files in different folders.
 
-## Reproducing Figure1
+Reproducing Figure1
 python benchmark/figure1_gym.py
 python benchmark/figure1_MachineLearning_task.py
 python benchmark/figure1_RL.py
 python benchmark/figure1_STDP.py
 python benchmark/figure1_SupervisedLearning.py
 
-## Reproducing Figure2
+Reproducing Figure2
 python sequence_limit_cycle/figure2_histogram_diffMDsize.py
 python sequence_limit_cycle/figure2_loss.py
 python sequence_limit_cycle/figure2_sequence.py
 python sequence_limit_cycle/figure2_state.py
 
-## Reproducing Figure3
+Reproducing Figure3
 python switching_PFC_MD/figure3_context_switching.py
 python switching_PFC_MD/figure3_tactile.py
 
 
-## Reproducing Figure4
+Reproducing Figure4
 python cortico_pulvinar_cortico/figure4_plot_angle.py
 python cortico_pulvinar_cortico/figure4_plot_decode.py
 python cortico_pulvinar_cortico/figure4_plot_decode_test.py
 python cortico_pulvinar_cortico/figure4_plot_state.py
 
 
-
-## Reproducing Figure5
+Reproducing Figure5
 python motor_plan/figure5_plot_speed.py
 python motor_plan/figure5_trajectory_perturbation.py
 
 
-## Reproducing Figure6
+Reproducing Figure6
 
 python grid_cell/plot_ratemaps.py
 python grid_cell/sequence.py
