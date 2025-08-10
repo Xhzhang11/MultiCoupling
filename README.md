@@ -60,7 +60,7 @@ python sequence_limit_cycle/figure2_state.py
 
 
 #Reproducing Figure3  
-python switching_PFC_MD/figure3_context_switching.py
+python switching_PFC_MD/figure3_context_switching.py  
 python switching_PFC_MD/figure3_tactile.py
 
 
