@@ -4,11 +4,11 @@
 ## Overview
 This repository contains code and data for our study on **Multiplicative feedback gating enables rapid learning and flexible computation
 in recurrent neural circuits**.  
-- **Accelerate learning** on working memory and decision benchmarks (Fig. 1).
-- **Stabilize and persist dynamics** such as sequences and limit cycles (Fig. 2).
-- **Enable cognitive flexibility** in biologically constrained thalamocortical models (Fig. 3).
-- **Support attention and working memory** in cortico–thalamic–cortical circuits (Fig. 4).
-- **Mediate motor task switching** via cerebellar–thalamic–cortical loops (Fig. 5).
+- **Accelerate learning** on working memory and decision benchmarks (Figure. 1).
+- **Stabilize and persist dynamics** such as sequences and limit cycles (Figure. 2).
+- **Enable cognitive flexibility** in biologically constrained thalamocortical models (Figure. 3).
+- **Support attention and working memory** in cortico–thalamic–cortical circuits (Figure. 4).
+- **Mediate motor task switching** via cerebellar–thalamic–cortical loops (Figure. 5).
 - **Produce grid-like codes** in visuospatial navigation (Fig. 6).
 
 ---
